@@ -1,0 +1,1 @@
+Aplicación para la administración de eventos y festejos - Proyecto de Sistemas 3 - Ingeniería en Informatica - UCLA
